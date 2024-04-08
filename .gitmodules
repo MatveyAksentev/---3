@@ -1,0 +1,6 @@
+[submodule "lab2_1"]
+	path = lab2_1
+	url = https://git.miem.hse.ru/blank9982242/lab2_1.git
+[submodule "lab2_2"]
+	path = lab2_2
+	url = https://git.miem.hse.ru/blank9982242/lab2_2.git
